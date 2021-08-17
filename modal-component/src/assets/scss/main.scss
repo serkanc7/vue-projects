@@ -1,0 +1,38 @@
+@import './mixin/media-query';
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+	font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+main {
+  background: #FFF7AE;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: #DF2E2E;
+  padding: 10px 30px;
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #FFF7AE;
+}
+
+
+
+
