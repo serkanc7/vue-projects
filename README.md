@@ -1,3 +1,3 @@
 ## Modal Component
 
-![alt text](./gifs/modal-component.gif)
+![Modal Component](./gifs/modal-component.gif)
